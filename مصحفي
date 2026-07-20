@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "translation": "In the name of Allah, the Most Gracious, the Most Merciful.",
+    "tafsir": "افتتاح السورة، دعاء ببسم الله.",
+    "sura": 1,
+    "aya": 1,
+    "tajweed": "مد في كلمة الرحمن"
+  },
+  {
+    "id": 2,
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "translation": "All praise is due to Allah, Lord of the worlds.",
+    "tafsir": "ثناء على الله.",
+    "sura": 1,
+    "aya": 2
+  },
+  {
+    "id": 3,
+    "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+    "translation": "The Most Gracious, the Most Merciful.",
+    "tafsir": "صفة الرحمن والرحيم.",
+    "sura": 1,
+    "aya": 3,
+    "tajweed": "غنة عند النون إذا جاءت مشددة"
+  },
+  {
+    "id": 4,
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "translation": "Master of the Day of Judgment.",
+    "tafsir": "الملك في يوم الجزاء.",
+    "sura": 1,
+    "aya": 4
+  },
+  {
+    "id": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "translation": "You alone we worship; You alone we ask for help.",
+    "tafsir": "توجه العبادة والدعاء إلى الله.",
+    "sura": 1,
+    "aya": 5,
+    "tajweed": "إظهار في الثاء"
+  },
+  {
+    "id": 6,
+    "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "translation": "Guide us to the straight path.",
+    "tafsir": "دعاء بالهداية.",
+    "sura": 1,
+    "aya": 6
+  }
+]
